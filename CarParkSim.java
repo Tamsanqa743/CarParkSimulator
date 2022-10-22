@@ -65,6 +65,7 @@ public class CarParkSim {
                 // If not, print error message.
                 // If yes, retreive it, calculate duration of stay and print it.
                 System.out.println("Enter ticket ID");
+                System.out.print(">");
                input = keyboard.next();
                Duration duration;
                long hour;
