@@ -4,7 +4,7 @@ import java.util.Scanner;
  * It creates and manipulates the main objects, and handles user I/O.
  *
  * @author Stephan Jamieson and Tamsanqa Thwala
- * @version 14/7/2019
+ * @version 19/09/2020
  */
 public class CarParkSim {
         
